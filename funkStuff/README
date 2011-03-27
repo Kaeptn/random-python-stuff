@@ -1,0 +1,7 @@
+=== getFunky.py ===
+
+getFunky.py ist ein Python Script zur berechnung der Wellenlänge oder
+Frequenz anhand einer Wellenlänge oder Frequenzen. Es können verschiedene
+Parameter übergeben werden die dann noch z.B. den Verkürzungsfaktor mit
+aufrechnen.
+
